@@ -1,0 +1,46 @@
+body
+{
+	background-image: url("../img/leafAndCom.jpg");
+	background-size: cover;
+	color:black;
+	font-family: 'Merriweather', serif;
+
+}
+img
+{
+	width: 100px;
+	height: 100px;
+}
+.container
+{
+	background-color:lightgray;
+	opacity:.8;
+}
+
+.emptySpace {
+    height: 150px;
+}
+
+.center{
+	margin: auto;
+    width: 100%;
+    padding: 10px;
+	text-align: right;
+}
+.smallImg
+{
+	width: 20px;
+	height: 20px;
+}
+.smallImg1
+{
+	width: 20px;
+	height: 20px;
+}
+.point{
+	color:red;
+}
+h4
+{
+	color:black;
+}
